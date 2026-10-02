@@ -39,4 +39,4 @@ A mobile-first web app for playing Mafia around a real table. Everyone joins fro
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mateusz-cieplak)
+[LinkedIn](https://www.linkedin.com/in/mateusz-cieplak-dev/)
